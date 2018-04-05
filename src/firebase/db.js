@@ -1,12 +1,12 @@
 import * as firebase from 'firebase'
 
 const firebaseConfig = {
-	apiKey: "AIzaSyCsvsRfjNbr7shO9p4nG2Argq6QAxwDr8A",
-	authDomain: "my-helper-4e161.firebaseapp.com",
-	databaseURL: "https://my-helper-4e161.firebaseio.com",
-	projectId: "my-helper-4e161",
-	storageBucket: "my-helper-4e161.appspot.com",
-	messagingSenderId: "1094907620636"
+	apiKey: 'AIzaSyD9YKRvuh2nnnTL8mwbKyJkd0I6lyqaPMA',
+	authDomain: 'rebustest-141b3.firebaseapp.com',
+	databaseURL: 'https://rebustest-141b3.firebaseio.com',
+	projectId: 'rebustest-141b3',
+	storageBucket: 'rebustest-141b3.appspot.com',
+	messagingSenderId: '410642016028'
 }
 
 firebase.initializeApp(firebaseConfig)
